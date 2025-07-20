@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 st.title('🤖 Machine Learning App')
 
-st.info('This is app builds a machine learning model!')
+st.info('🐧 Guess the Penguin! Feed in features like bill size, flipper length, and island—and watch the app predict whether it’s an Adélie, Gentoo, or Chinstrap in real-time.')
 
 with st.expander('Data'):
   st.write('**Raw data**')
