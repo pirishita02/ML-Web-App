@@ -20,7 +20,6 @@ It’s an interactive way to understand how machine learning models make predict
 - 🎯 Live predictions with species probabilities
 - 🐧 Visualize raw data and relationships (scatter chart)
 - 🤖 Real-time machine learning with data preprocessing and model training
-- 📎 Upload your own data for batch prediction (optional feature to add)
 
 ---
 
